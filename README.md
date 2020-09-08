@@ -1,5 +1,5 @@
-### Hi there 👋
-
+# Mark Hjorth
+<img src="https://markhjorth.com/wp-content/uploads/2017/06/open_graph_logo.jpg" width="600">
 <!--
 **MarkHjorth/MarkHjorth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
